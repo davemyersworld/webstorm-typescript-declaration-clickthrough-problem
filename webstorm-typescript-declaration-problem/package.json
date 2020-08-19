@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A package that depends on another package with typescript",
   "main": "index.js",
-  "dependencies":  {
-    "webstorm-typescript-declaration-dependency": "../webstorm-typescript-declaration-dependency"
+  "dependencies": {
+    "webstorm-typescript-declaration-dependency": "../webstorm-typescript-declaration-dependency",
+    "webstorm-javascript-dependency": "../webstorm-javascript-dependency"
   },
   "author": "",
   "license": "UNLICENSED"

@@ -1,0 +1,11 @@
+{
+  "name": "webstorm-javascript-dependency",
+  "version": "1.0.0",
+  "description": "A package with javascript in it that DOES offer code navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
