@@ -12,4 +12,4 @@ See code on `webstorm-typescript-declaration-dependency/index.ts`
 See declation on `webstorm-typescript-declaration-dependency/index.d.ts`
 
 ## Additional Resources
-See this [video demonstrating the problem]()
+See this [video demonstrating the problem](https://youtu.be/tPSEnuqc0xI)
